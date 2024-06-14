@@ -22,14 +22,14 @@ namespace Shopping_Tutorial.Controllers
             {
                 var ordercode = Guid.NewGuid().ToString();
                 var orderItem = new OrderModel();
-                orderItem.Ordercode = ordercode;
+                orderItem.Ordercode = ordercode;//fgfgfgfgfhfg
                 orderItem.Username = userEmail;
                 orderItem.Startus = 1;
-                orderItem.CreatedDate = DateTime.Now;
+                orderItem.CreatedDate = DateTime.Now;//fgfgfdfdfdf
                 _dataContext.Add(orderItem);
                 _dataContext.SaveChanges();
                 TempData["success"] = "Đơn Hàng Đã Được Tạo";
-                return RedirectToAction("index","cart");
+                return RedirectToAction("index","cart");//sdsdsdsd
 
             }
                 return View();
