@@ -69,3 +69,6 @@ D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\obj\Debug\net6.0\Shopping.BC8
 D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\AngleSharp.dll
+D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\AngleSharp.Css.dll
+D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\HtmlSanitizer.dll

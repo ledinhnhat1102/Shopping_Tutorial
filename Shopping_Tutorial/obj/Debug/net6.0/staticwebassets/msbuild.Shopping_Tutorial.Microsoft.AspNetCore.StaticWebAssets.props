@@ -1248,12 +1248,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\030522fe-43f2-4e71-9fcf-dd8ff27794bb_iphone-15-pro-max-blue-thumbnew-600x600.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Shopping_Tutorial</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Shopping_Tutorial</BasePath>
-      <RelativePath>media/products/030522fe-43f2-4e71-9fcf-dd8ff27794bb_iphone-15-pro-max-blue-thumbnew-600x600.jpg</RelativePath>
+      <RelativePath>media/products/3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1262,14 +1262,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\030522fe-43f2-4e71-9fcf-dd8ff27794bb_iphone-15-pro-max-blue-thumbnew-600x600.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\1.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\72dddb88-888f-48b2-9114-73e12dd7b446_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Shopping_Tutorial</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Shopping_Tutorial</BasePath>
-      <RelativePath>media/products/1.jpg</RelativePath>
+      <RelativePath>media/products/72dddb88-888f-48b2-9114-73e12dd7b446_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1278,14 +1278,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\1.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\72dddb88-888f-48b2-9114-73e12dd7b446_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\2.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Shopping_Tutorial</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Shopping_Tutorial</BasePath>
-      <RelativePath>media/products/2.jpg</RelativePath>
+      <RelativePath>media/products/75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1294,23 +1294,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\2.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\4ee8e7e7-2df3-40c9-bd47-3f937d793019_2.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>Shopping_Tutorial</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Shopping_Tutorial</BasePath>
-      <RelativePath>media/products/4ee8e7e7-2df3-40c9-bd47-3f937d793019_2.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\4ee8e7e7-2df3-40c9-bd47-3f937d793019_2.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\ad70e6cb-647c-4923-aa64-27277058e7c3_Iphone13proMAX.jpg))">
       <SourceType>Package</SourceType>
@@ -1344,12 +1328,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\b769d586-6da6-4626-ac03-fedfcbe97292_iphone-15-pro-max-blue-thumbnew-600x600.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\c1d09d5d-4ab4-44f2-a43b-443c7322d399_2.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Shopping_Tutorial</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Shopping_Tutorial</BasePath>
-      <RelativePath>media/products/c1d09d5d-4ab4-44f2-a43b-443c7322d399_2.jpg</RelativePath>
+      <RelativePath>media/products/c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1358,14 +1342,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\c1d09d5d-4ab4-44f2-a43b-443c7322d399_2.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\ebe67f51-2889-48b4-8c68-295aecc1f07a_250-26338-b----pc-render-core-i9-14900k.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Shopping_Tutorial</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Shopping_Tutorial</BasePath>
-      <RelativePath>media/products/ebe67f51-2889-48b4-8c68-295aecc1f07a_250-26338-b----pc-render-core-i9-14900k.jpg</RelativePath>
+      <RelativePath>media/products/ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1374,7 +1358,39 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\ebe67f51-2889-48b4-8c68-295aecc1f07a_250-26338-b----pc-render-core-i9-14900k.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Shopping_Tutorial</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Shopping_Tutorial</BasePath>
+      <RelativePath>media/products/fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Shopping_Tutorial</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Shopping_Tutorial</BasePath>
+      <RelativePath>media/products/fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\gallery1.jpg))">
       <SourceType>Package</SourceType>

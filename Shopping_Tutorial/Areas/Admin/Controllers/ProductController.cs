@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Shopping_Tutorial.Models;
 using Shopping_Tutorial.Repository;
-using HtmlAgilityPack;
+using Ganss.XSS;
 
 namespace Shopping_Tutorial.Areas.Admin.Controllers
 {
@@ -32,16 +32,15 @@ namespace Shopping_Tutorial.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(ProductModel product)
         {
-            ViewBag.Categories = new SelectList(_dataContext.Categories, "Id", "Name",product.CategoryId);
-            ViewBag.Brands = new SelectList(_dataContext.Brands, "Id", "Name",product.BrandId);
+            ViewBag.Categories = new SelectList(_dataContext.Categories, "Id", "Name", product.CategoryId);
+            ViewBag.Brands = new SelectList(_dataContext.Brands, "Id", "Name", product.BrandId);
 
             if (ModelState.IsValid)
             {
-                //lam Description ko bij loi font
-                var doc = new HtmlDocument();
-                doc.LoadHtml(product.Description);
-                product.Description = doc.DocumentNode.InnerText;
+                var sanitizer = new HtmlSanitizer();
 
+                // Làm sạch mô tả sản phẩm trước khi lưu
+                product.Description = sanitizer.Sanitize(product.Description);
 
                 product.Slug = product.Name.Replace(" ", "-");
                 var slug = await _dataContext.Products.FirstOrDefaultAsync(p => p.Slug == product.Slug);
@@ -52,13 +51,14 @@ namespace Shopping_Tutorial.Areas.Admin.Controllers
                 }
                 if (product.ImageUpload != null)
                 {
-                    string uploadsDir = Path.Combine(_webHostEnvironment.WebRootPath,"media/products");
+                    string uploadsDir = Path.Combine(_webHostEnvironment.WebRootPath, "media/products");
                     string imageName = Guid.NewGuid().ToString() + "_" + product.ImageUpload.FileName;
                     string filePath = Path.Combine(uploadsDir, imageName);
 
-                    FileStream fs = new FileStream(filePath, FileMode.Create);
-                    await product.ImageUpload.CopyToAsync(fs);
-                    fs.Close();
+                    using (var fs = new FileStream(filePath, FileMode.Create))
+                    {
+                        await product.ImageUpload.CopyToAsync(fs);
+                    }
                     product.Image = imageName;
                 }
                 _dataContext.Add(product);
@@ -81,8 +81,10 @@ namespace Shopping_Tutorial.Areas.Admin.Controllers
                 return BadRequest(errorMessage);
             }
 
-            //return View(product);
+            return View(product);
         }
+
+
 
         public async Task<IActionResult> Edit(int Id)
         {
@@ -103,10 +105,10 @@ namespace Shopping_Tutorial.Areas.Admin.Controllers
             var existed_product = _dataContext.Products.Find(product.Id); //tim sp
             if (ModelState.IsValid)
             {
-                //lam Description ko bij loi font
-                var doc = new HtmlDocument();
-                doc.LoadHtml(product.Description);
-                product.Description = doc.DocumentNode.InnerText;
+                var sanitizer = new HtmlSanitizer();
+
+                // Làm sạch mô tả sản phẩm trước khi lưu
+                product.Description = sanitizer.Sanitize(product.Description);
 
 
                 product.Slug = product.Name.Replace(" ", "-");
@@ -163,7 +165,7 @@ namespace Shopping_Tutorial.Areas.Admin.Controllers
                 return BadRequest(errorMessage);
             }
 
-            //return View(product);
+            return View(product);
         }
 
         public async Task<IActionResult> Delete(int Id)

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GLJdu5wGvZ+ypOF/x8tkUY0sfan6w01ODsiBxMtDuWw=",
+  "Hash": "DVsS2LFIGVZSUbDQutm5uPF89u6Q44qapJBWEM/+GG0=",
   "Source": "Shopping_Tutorial",
   "BasePath": "_content/Shopping_Tutorial",
   "Mode": "Default",
@@ -1537,12 +1537,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\030522fe-43f2-4e71-9fcf-dd8ff27794bb_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg",
       "SourceId": "Shopping_Tutorial",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
       "BasePath": "_content/Shopping_Tutorial",
-      "RelativePath": "media/products/030522fe-43f2-4e71-9fcf-dd8ff27794bb_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "RelativePath": "media/products/3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1553,15 +1553,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\products\\030522fe-43f2-4e71-9fcf-dd8ff27794bb_iphone-15-pro-max-blue-thumbnew-600x600.jpg"
+      "OriginalItemSpec": "wwwroot\\media\\products\\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg"
     },
     {
-      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\1.jpg",
+      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\72dddb88-888f-48b2-9114-73e12dd7b446_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg",
       "SourceId": "Shopping_Tutorial",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
       "BasePath": "_content/Shopping_Tutorial",
-      "RelativePath": "media/products/1.jpg",
+      "RelativePath": "media/products/72dddb88-888f-48b2-9114-73e12dd7b446_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1572,15 +1572,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\products\\1.jpg"
+      "OriginalItemSpec": "wwwroot\\media\\products\\72dddb88-888f-48b2-9114-73e12dd7b446_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg"
     },
     {
-      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\2.jpg",
+      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg",
       "SourceId": "Shopping_Tutorial",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
       "BasePath": "_content/Shopping_Tutorial",
-      "RelativePath": "media/products/2.jpg",
+      "RelativePath": "media/products/75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1591,26 +1591,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\products\\2.jpg"
-    },
-    {
-      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\4ee8e7e7-2df3-40c9-bd47-3f937d793019_2.jpg",
-      "SourceId": "Shopping_Tutorial",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
-      "BasePath": "_content/Shopping_Tutorial",
-      "RelativePath": "media/products/4ee8e7e7-2df3-40c9-bd47-3f937d793019_2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\products\\4ee8e7e7-2df3-40c9-bd47-3f937d793019_2.jpg"
+      "OriginalItemSpec": "wwwroot\\media\\products\\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg"
     },
     {
       "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ad70e6cb-647c-4923-aa64-27277058e7c3_Iphone13proMAX.jpg",
@@ -1651,12 +1632,12 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\b769d586-6da6-4626-ac03-fedfcbe97292_iphone-15-pro-max-blue-thumbnew-600x600.jpg"
     },
     {
-      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c1d09d5d-4ab4-44f2-a43b-443c7322d399_2.jpg",
+      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg",
       "SourceId": "Shopping_Tutorial",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
       "BasePath": "_content/Shopping_Tutorial",
-      "RelativePath": "media/products/c1d09d5d-4ab4-44f2-a43b-443c7322d399_2.jpg",
+      "RelativePath": "media/products/c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1667,15 +1648,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\products\\c1d09d5d-4ab4-44f2-a43b-443c7322d399_2.jpg"
+      "OriginalItemSpec": "wwwroot\\media\\products\\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg"
     },
     {
-      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ebe67f51-2889-48b4-8c68-295aecc1f07a_250-26338-b----pc-render-core-i9-14900k.jpg",
+      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
       "SourceId": "Shopping_Tutorial",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
       "BasePath": "_content/Shopping_Tutorial",
-      "RelativePath": "media/products/ebe67f51-2889-48b4-8c68-295aecc1f07a_250-26338-b----pc-render-core-i9-14900k.jpg",
+      "RelativePath": "media/products/ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1686,7 +1667,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\products\\ebe67f51-2889-48b4-8c68-295aecc1f07a_250-26338-b----pc-render-core-i9-14900k.jpg"
+      "OriginalItemSpec": "wwwroot\\media\\products\\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg"
+    },
+    {
+      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg",
+      "SourceId": "Shopping_Tutorial",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tutorial",
+      "RelativePath": "media/products/fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\products\\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg"
+    },
+    {
+      "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg",
+      "SourceId": "Shopping_Tutorial",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tutorial",
+      "RelativePath": "media/products/fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\products\\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg"
     },
     {
       "Identity": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\gallery1.jpg",
