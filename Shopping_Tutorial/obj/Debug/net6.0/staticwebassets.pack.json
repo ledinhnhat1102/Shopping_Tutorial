@@ -1,367 +1,367 @@
 {
   "Files": [
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css",
       "PackagePath": "staticwebassets\\Shopping_Tutorial.bundle.scp.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\backend\\js\\site.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\backend\\js\\site.js",
       "PackagePath": "staticwebassets\\backend\\js\\site.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\animate.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\main.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\prettyPhoto.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\prettyPhoto.css",
       "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\price-range.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\price-range.css",
       "PackagePath": "staticwebassets\\css\\price-range.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\responsive.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\1.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\1.jpg",
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\2.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\2.jpg",
       "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\gallery1.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\gallery1.jpg",
       "PackagePath": "staticwebassets\\images\\gallery1.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\contact.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\gmaps.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\gmaps.js",
       "PackagePath": "staticwebassets\\js\\gmaps.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\html5shiv.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\html5shiv.js",
       "PackagePath": "staticwebassets\\js\\html5shiv.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.js",
       "PackagePath": "staticwebassets\\js\\jquery.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.prettyPhoto.js",
       "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\price-range.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\price-range.js",
       "PackagePath": "staticwebassets\\js\\price-range.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\72dddb88-888f-48b2-9114-73e12dd7b446_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\72dddb88-888f-48b2-9114-73e12dd7b446_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\72dddb88-888f-48b2-9114-73e12dd7b446_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ad70e6cb-647c-4923-aa64-27277058e7c3_Iphone13proMAX.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ad70e6cb-647c-4923-aa64-27277058e7c3_Iphone13proMAX.jpg",
       "PackagePath": "staticwebassets\\media\\products\\ad70e6cb-647c-4923-aa64-27277058e7c3_Iphone13proMAX.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\b769d586-6da6-4626-ac03-fedfcbe97292_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\b769d586-6da6-4626-ac03-fedfcbe97292_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\b769d586-6da6-4626-ac03-fedfcbe97292_iphone-15-pro-max-blue-thumbnew-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg",
       "PackagePath": "staticwebassets\\media\\products\\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\gallery1.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\gallery1.jpg",
       "PackagePath": "staticwebassets\\media\\products\\gallery1.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\huong-dan-xoa-anh-tren-macbook-m2-don-gian.png",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\huong-dan-xoa-anh-tren-macbook-m2-don-gian.png",
       "PackagePath": "staticwebassets\\media\\products\\huong-dan-xoa-anh-tren-macbook-m2-don-gian.png"
     },
     {
-      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\macbook10_1280x1024-800-resize.jpg",
+      "Id": "C:\\Users\\Acer\\git project\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\macbook10_1280x1024-800-resize.jpg",
       "PackagePath": "staticwebassets\\media\\products\\macbook10_1280x1024-800-resize.jpg"
     },
     {
