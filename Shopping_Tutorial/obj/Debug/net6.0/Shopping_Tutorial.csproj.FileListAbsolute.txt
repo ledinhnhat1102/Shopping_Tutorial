@@ -72,3 +72,9 @@ D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\HtmlAgilityP
 D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\AngleSharp.dll
 D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\AngleSharp.Css.dll
 D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\HtmlSanitizer.dll
+D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\obj\Debug\net6.0\Shopping_Tutorial.sourcelink.json
+D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Thầy Lâm\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
