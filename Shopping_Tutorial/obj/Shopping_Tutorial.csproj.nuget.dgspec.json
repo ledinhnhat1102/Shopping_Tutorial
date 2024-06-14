@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {}
+    "D:\\Visual Studio 2022\\Shopping_Tutorial-main\\Shopping_Tutorial-main\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {}
   },
   "projects": {
-    "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {
+    "D:\\Visual Studio 2022\\Shopping_Tutorial-main\\Shopping_Tutorial-main\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
+        "projectUniqueName": "D:\\Visual Studio 2022\\Shopping_Tutorial-main\\Shopping_Tutorial-main\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
         "projectName": "Shopping_Tutorial",
-        "projectPath": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
-        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\",
+        "projectPath": "D:\\Visual Studio 2022\\Shopping_Tutorial-main\\Shopping_Tutorial-main\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio 2022\\Shopping_Tutorial-main\\Shopping_Tutorial-main\\Shopping_Tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +75,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.21, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -93,24 +93,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -119,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

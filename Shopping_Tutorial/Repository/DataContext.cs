@@ -15,5 +15,3 @@ namespace Shopping_Tutorial.Repository
 		public DbSet<CategoryModel> Categories { get; set; }
 	}
 }
-
-//nhanh nhat
