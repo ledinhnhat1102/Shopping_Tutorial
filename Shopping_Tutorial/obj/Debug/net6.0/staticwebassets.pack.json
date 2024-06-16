@@ -1,407 +1,407 @@
 {
   "Files": [
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css",
       "PackagePath": "staticwebassets\\Shopping_Tutorial.bundle.scp.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\backend\\js\\site.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\backend\\js\\site.js",
       "PackagePath": "staticwebassets\\backend\\js\\site.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\animate.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\main.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\prettyPhoto.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\prettyPhoto.css",
       "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\price-range.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\price-range.css",
       "PackagePath": "staticwebassets\\css\\price-range.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\responsive.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\favicon.ico",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\1.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\1.jpg",
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\2.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\2.jpg",
       "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\gallery1.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\gallery1.jpg",
       "PackagePath": "staticwebassets\\images\\gallery1.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\contact.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\gmaps.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\gmaps.js",
       "PackagePath": "staticwebassets\\js\\gmaps.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\html5shiv.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\html5shiv.js",
       "PackagePath": "staticwebassets\\js\\html5shiv.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.js",
       "PackagePath": "staticwebassets\\js\\jquery.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.prettyPhoto.js",
       "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\main.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\price-range.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\js\\price-range.js",
       "PackagePath": "staticwebassets\\js\\price-range.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\0ae299b8-d7ae-4393-8416-84c32aae279b_acer-swift-3-sf314-512-56qn-i5-nxk0fsv002-ab-thumb-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\0ae299b8-d7ae-4393-8416-84c32aae279b_acer-swift-3-sf314-512-56qn-i5-nxk0fsv002-ab-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\0ae299b8-d7ae-4393-8416-84c32aae279b_acer-swift-3-sf314-512-56qn-i5-nxk0fsv002-ab-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\1967af7a-2e49-4413-8bd9-7b8d264b71c8_xiaomi-redmi-a3-xanh-lá-thumb-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\1967af7a-2e49-4413-8bd9-7b8d264b71c8_xiaomi-redmi-a3-xanh-lá-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\1967af7a-2e49-4413-8bd9-7b8d264b71c8_xiaomi-redmi-a3-xanh-lá-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\1b28a82b-fe38-49fd-81a6-a53a4740c538_cap-lightning-1m-xmobile-l2205-thumb-1-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\1b28a82b-fe38-49fd-81a6-a53a4740c538_cap-lightning-1m-xmobile-l2205-thumb-1-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\1b28a82b-fe38-49fd-81a6-a53a4740c538_cap-lightning-1m-xmobile-l2205-thumb-1-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\3f213e18-929c-4ad2-aab4-696cf6d53a3a_lenovo-ideapad-5-pro-14iap7-i7-82sh002svn-ab-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\525f8fcf-da9c-48ba-b996-cb6b561219b8_samsung-viewfinity-s5-ls34c500gaexxv-34-inch-3k638473881201950533.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\525f8fcf-da9c-48ba-b996-cb6b561219b8_samsung-viewfinity-s5-ls34c500gaexxv-34-inch-3k638473881201950533.jpg",
       "PackagePath": "staticwebassets\\media\\products\\525f8fcf-da9c-48ba-b996-cb6b561219b8_samsung-viewfinity-s5-ls34c500gaexxv-34-inch-3k638473881201950533.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\6918838b-2a8c-4f5d-b3e9-2de9d3c1b8a6_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\6918838b-2a8c-4f5d-b3e9-2de9d3c1b8a6_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\6918838b-2a8c-4f5d-b3e9-2de9d3c1b8a6_apple-macbook-air-15-inch-m2-2023-midnight-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\75569773-fbba-4999-b093-f8439bb418ba_xiaomi-redmi-note-13-black-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\9836b702-23ba-422e-b052-25daf71b2bc3_samsung-galaxy-s23-fe-tim-thumbnew-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\9836b702-23ba-422e-b052-25daf71b2bc3_samsung-galaxy-s23-fe-tim-thumbnew-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\9836b702-23ba-422e-b052-25daf71b2bc3_samsung-galaxy-s23-fe-tim-thumbnew-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\a2fb2ef6-03b3-4fe8-880b-8fbd47a33c11_tai-nghe-bluetooth-tws-oppo-enco-buds-2-ete41-trang-1.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\a2fb2ef6-03b3-4fe8-880b-8fbd47a33c11_tai-nghe-bluetooth-tws-oppo-enco-buds-2-ete41-trang-1.jpg",
       "PackagePath": "staticwebassets\\media\\products\\a2fb2ef6-03b3-4fe8-880b-8fbd47a33c11_tai-nghe-bluetooth-tws-oppo-enco-buds-2-ete41-trang-1.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ac12da51-4304-4b20-a404-de01f8e35b28_dell-precision-16-7680-i7-71024681-thumb-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ac12da51-4304-4b20-a404-de01f8e35b28_dell-precision-16-7680-i7-71024681-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\ac12da51-4304-4b20-a404-de01f8e35b28_dell-precision-16-7680-i7-71024681-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ad70e6cb-647c-4923-aa64-27277058e7c3_Iphone13proMAX.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ad70e6cb-647c-4923-aa64-27277058e7c3_Iphone13proMAX.jpg",
       "PackagePath": "staticwebassets\\media\\products\\ad70e6cb-647c-4923-aa64-27277058e7c3_Iphone13proMAX.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\b769d586-6da6-4626-ac03-fedfcbe97292_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\b769d586-6da6-4626-ac03-fedfcbe97292_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\b769d586-6da6-4626-ac03-fedfcbe97292_iphone-15-pro-max-blue-thumbnew-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c176a547-dda4-4b3e-9083-f7329ad5d2ca_66606_pc_asus_rog_strix_g15cf_850x850_2.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c176a547-dda4-4b3e-9083-f7329ad5d2ca_66606_pc_asus_rog_strix_g15cf_850x850_2.jpg",
       "PackagePath": "staticwebassets\\media\\products\\c176a547-dda4-4b3e-9083-f7329ad5d2ca_66606_pc_asus_rog_strix_g15cf_850x850_2.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\c1b3a630-643e-4e10-b80b-91a83729e5f0_xiaomi-14-ultra-white-thumbnew-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c640a67f-4e35-4b16-a440-576288ccd11c_tai-nghe-bluetooth-true-wireless-ava-buds-life-air-3-trang-1.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\c640a67f-4e35-4b16-a440-576288ccd11c_tai-nghe-bluetooth-true-wireless-ava-buds-life-air-3-trang-1.jpg",
       "PackagePath": "staticwebassets\\media\\products\\c640a67f-4e35-4b16-a440-576288ccd11c_tai-nghe-bluetooth-true-wireless-ava-buds-life-air-3-trang-1.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\ddfff8b1-80de-4317-87b5-1cc867b113aa_iphone-15-pro-max-blue-thumbnew-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\e0b5395f-fcba-4140-80a0-b31d3ef10334_oppo-reno10-blue-thumbnew-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\e0b5395f-fcba-4140-80a0-b31d3ef10334_oppo-reno10-blue-thumbnew-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\e0b5395f-fcba-4140-80a0-b31d3ef10334_oppo-reno10-blue-thumbnew-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\media\\products\\fbc85d63-d0be-4306-9edf-bc8018226e1f_asus-tuf-gaming-a15-fa506nc-r5-hn017w-thumb-600x600.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg",
       "PackagePath": "staticwebassets\\media\\products\\fcad5875-62c2-435b-9076-4a44b44104cc_lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\gallery1.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\gallery1.jpg",
       "PackagePath": "staticwebassets\\media\\products\\gallery1.jpg"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\huong-dan-xoa-anh-tren-macbook-m2-don-gian.png",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\huong-dan-xoa-anh-tren-macbook-m2-don-gian.png",
       "PackagePath": "staticwebassets\\media\\products\\huong-dan-xoa-anh-tren-macbook-m2-don-gian.png"
     },
     {
-      "Id": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\macbook10_1280x1024-800-resize.jpg",
+      "Id": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\media\\products\\macbook10_1280x1024-800-resize.jpg",
       "PackagePath": "staticwebassets\\media\\products\\macbook10_1280x1024-800-resize.jpg"
     },
     {

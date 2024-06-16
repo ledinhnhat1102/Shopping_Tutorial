@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {}
+    "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {}
   },
   "projects": {
-    "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {
+    "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
+        "projectUniqueName": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
         "projectName": "Shopping_Tutorial",
-        "projectPath": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
+        "projectPath": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\",
+        "outputPath": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",

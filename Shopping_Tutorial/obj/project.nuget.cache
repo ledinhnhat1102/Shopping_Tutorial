@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gSU+leM0JFnCvrAPlf/iRawVp/PAIrt8kHfD9qrIFKdCSl8VZUMn5tqa+0SY4A243L0+EDJyVQMJygmEHo2SPw==",
+  "dgSpecHash": "WX4bgHkOkEWpZMn65H2+QseJgC8yMF6qxahAWP+U0NOn5CSTj0oL7aTUXMUxbj3JcNgfmfMGv1hY85t9DCqlUQ==",
   "success": true,
-  "projectFilePath": "D:\\Thầy Lâm\\GIT\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
+  "projectFilePath": "D:\\Thầy Lâm\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Legion\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
     "C:\\Users\\Legion\\.nuget\\packages\\anglesharp.css\\0.16.1\\anglesharp.css.0.16.1.nupkg.sha512",
