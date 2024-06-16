@@ -140,8 +140,12 @@
 						</div>
 					</div>
 					<div class="col-sm-3">
-						<div class="search_box pull-right">
-							<input type="text" placeholder="Search" />
+						"
+						<div class="container">
+							<form asp-controller="Product" asp-action="Search" method="get" />
+							<input tyoe="text" name="searchQuery" placeholder="Enter the product name..." value="@ViewData" =["searchQuery"]" />
+							<button type="submit">Search</button>
+							</form>
 						</div>
 					</div>
 				</div>
@@ -218,8 +222,8 @@
 	<section>
 		<div class="container">
 			<div class="row">
-				@Html.Partial("_NotificationPartial")
-				@RenderBody();
+					@Html.Partial("_NotificationPartial")
+					@RenderBody();
 			</div>
 		</div>
 	</section>
@@ -393,3 +397,9 @@
 	<script src="~/js/main.js"></script>
 </body>
 </html>
+@{
+	Layout = null;
+	var searchQuery = ViewData["searchQuery"] as string;
+}
+
+<input type="text" value="@searchQuery" />

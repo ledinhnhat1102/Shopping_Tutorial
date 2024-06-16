@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿/*using Microsoft.AspNetCore.Mvc;
 using Shopping_Tutorial.Repository;
 using System.Security.Claims;
 
@@ -37,3 +37,4 @@ namespace Shopping_Tutorial.Controllers
             }
         }
     }
+*/

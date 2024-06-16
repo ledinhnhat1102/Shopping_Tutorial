@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Shopping_Tutorial.Models.ProductModel>
+
+@{
+    ViewData["Title"] = "Search Results";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-sm-3">
+        @Html.Partial("_SidebarPartial")
+    </div>
+    <div class="col-sm-9">
+        <h2>Search Results</h2>
+        @if (!Model.Any())
+        {
+            <p>No products found.</p>
+        }
+        else
+        {
+            <div class="row">
+                @foreach (var product in Model)
+                {
+                    <div class="col-sm-4">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="~/media/products/@product.Image" alt="@product.Name" />
+                                    <h2>$@product.Price</h2>
+                                    <p>@product.Name</p>
+                                    <a href="@Url.Action("Details", "Product", new { Id = product.Id })" class="btn btn-default add-to-cart">
+                                        <i class="fa fa-info-circle"></i> Details
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</div>
