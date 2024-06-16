@@ -10,9 +10,16 @@ namespace Shopping_Tutorial.Controllers
 		{
 			_dataContext = dataContext;
 		}
-		public ActionResult Index()
+		public ActionResult Index(string searchText)
 		{
-			return View();
+			ViewData["CurrentFilter"] = searchText;
+			var product = from m in _dataContext.Products
+						  select m;
+			if (!String.IsNullOrEmpty(searchText))
+			{
+				product = product.Where(m => m.Name.Contains(searchText));
+			}
+			return View(product);
 		}
 		public async Task<IActionResult> Details(int Id )
 		{

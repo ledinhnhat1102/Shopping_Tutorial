@@ -13,10 +13,12 @@
 
 		public string Image {  get; set; }
 
-		//gio ko co sp
-		public CartItemModel() { }
-
-		//gio hang co sp
+		
+		public CartItemModel() { 
+		
+		}
+		 
+		
 		public CartItemModel(ProductModel product) {
 			ProductId = product.Id;
 			ProductName = product.Name;
