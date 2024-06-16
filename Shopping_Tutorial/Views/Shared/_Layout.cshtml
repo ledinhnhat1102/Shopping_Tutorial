@@ -77,10 +77,8 @@
 								<li class="dropdown">
 									<a asp-controller="Product">Shop<i class="fa fa-angle-down"></i></a>
 									<ul role="menu" class="sub-menu">
-										<li><a asp-controller="Category" asp-action="Index">Categories</a></li>
-										<li><a asp-controller="Product" asp-action="Detail">Product Details</a></li>
-										<li><a asp-controller="Cart" asp-action="Checkout">Checkout</a></li>
 										<li><a asp-controller="Account" asp-action="Login">Login</a></li>
+										<li><a asp-controller="Admin">Manager</a></li>
 									</ul>
 								</li>
 								<li><a asp-controller="Cart" asp-action="Index"><i class="fa fa-shopping-cart"></i> Cart</a></li>
@@ -145,7 +143,7 @@
 		<div class="container">
 			<div class="row">
 				@Html.Partial("_NotificationPartial")
-				@RenderBody();
+				@RenderBody()
 			</div>
 		</div>
 	</section>
