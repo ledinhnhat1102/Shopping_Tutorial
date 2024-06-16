@@ -145,12 +145,14 @@
 							</ul>
 						</div>
 					</div> 
-					<div class="col-sm-3">"
-						<div class="search_box pull-right">
-							<form asp-controller="Product" asp-action="Search" method="get"/>
-							<input tyoe="text" name ="searchQuery" placeholder="Enter the product name..." value="@ViewData"=["searchQuery"] as string"/>
-							<button type="submit" >Search</button>
+					<div class="col-sm-3">
+						<div class="container">
+							<form asp-controller="Product" asp-action="Search" method="get">
+								<input type="text" name="searchQuery" placeholder="Enter the product name..." value="@ViewData["searchQuery"] " />
+								<button type="submit">Search</button>
 							</form>
+						</div>
+					</div>
 						</div>
 					</div>
 				</div>
