@@ -4,10 +4,12 @@ using Microsoft.EntityFrameworkCore;
 using Shopping_Tutorial.Models;
 using Shopping_Tutorial.Repository;
 using Ganss.XSS;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Shopping_Tutorial.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly DataContext _dataContext;

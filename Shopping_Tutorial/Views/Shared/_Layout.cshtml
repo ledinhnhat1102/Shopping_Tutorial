@@ -42,11 +42,15 @@
 					<div class="col-sm-6">
 						<div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
-								<li><a href="https://www.facebook.com/profile.php?id=100003155700686"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								@if(User.Identity?.IsAuthenticated ?? false)
+								{
+									<li><a asp-controller="Account" asp-action="Logout"><i class="fa fa-lock"></i>Hi @User.Identity.Name, Logout</a></li>
+								}
+								else
+								{
+									<li><a asp-controller="Account" asp-action="Login"><i class="fa fa-lock"></i>Login</a></li>
+								}
+
 							</ul>
 						</div>
 					</div>
@@ -76,14 +80,16 @@
 										<li><a asp-controller="Category" asp-action="Index">Categories</a></li>
 										<li><a asp-controller="Product" asp-action="Detail">Product Details</a></li>
 										<li><a asp-controller="Cart" asp-action="Checkout">Checkout</a></li>
-										@* <li><a asp-controller="Cart" asp-action="Index">Cart</a></li> *@
-										<li><a>Login</a></li>
+										<li><a asp-controller="Account" asp-action="Login">Login</a></li>
 									</ul>
 								</li>
 								<li><a asp-controller="Cart" asp-action="Index"><i class="fa fa-shopping-cart"></i> Cart</a></li>
 							</ul>
 						</div>
 					</div>
+
+
+
 					<div class="col-sm-3">
 						<div class="search_box pull-right">
 							<input type="text" placeholder="Search" />
@@ -230,5 +236,6 @@
 	<script src="~/js/price-range.js"></script>
 	<script src="~/js/jquery.prettyPhoto.js"></script>
 	<script src="~/js/main.js"></script>
+	@await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
