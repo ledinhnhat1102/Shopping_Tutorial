@@ -1,9 +1,17 @@
 ﻿@model IEnumerable<Shopping_Tutorial.Models.ProductModel>
 
 @{
+
     ViewData["Title"] = "Search Results";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+    @{
+    ViewData["Title"] = "Search";
+    var searchQuery = ViewData["searchQuery"] as string ?? string.Empty; // Truy xuất giá trị chuỗi từ ViewData và xử lý null
+}
+  
+<input type="text" value="@searchQuery" />
+
 
 <div class="row">
     <div class="col-sm-3">

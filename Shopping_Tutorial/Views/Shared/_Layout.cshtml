@@ -146,9 +146,9 @@
 						</div>
 					</div> 
 					<div class="col-sm-3">"
-						<div class="container">
+						<div class="search_box pull-right">
 							<form asp-controller="Product" asp-action="Search" method="get"/>
-							<input tyoe="text" name ="searchQuery" placeholder="Enter the product name..." value="@ViewData"=["searchQuery"]"/>
+							<input tyoe="text" name ="searchQuery" placeholder="Enter the product name..." value="@ViewData"=["searchQuery"] as string"/>
 							<button type="submit" >Search</button>
 							</form>
 						</div>

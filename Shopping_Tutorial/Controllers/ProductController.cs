@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Shopping_Tutorial.Repository;
@@ -16,11 +17,12 @@ namespace Shopping_Tutorial.Controllers
 		{
 
 			ViewData["searchQuery"] = "searchQuery";
-			return View(await _dataContext.Products.OrderByDescending(p => p.Id).Include(p => p.Category).Include(p => p.Brand).ToListAsync());
+			return View();
 		}
 
 		public IActionResult Create()
 		{
+			ViewBag.searchQuery = "searchQuery";
 			ViewBag.Categories = new SelectList(_dataContext.Categories, "Id", "Name");
 			ViewBag.Brands = new SelectList(_dataContext.Brands, "Id", "Name");
 			return View();
@@ -46,6 +48,10 @@ namespace Shopping_Tutorial.Controllers
 				products = products.Where(p => EF.Functions.Like(p.Name.ToLower(), $"%{searchQuery}%"));
 				ViewData["searchQuery"] = searchQuery;
 			}
+			else
+			{
+                ViewData["searchQuery"] = string.Empty;
+            }
 
 			return View(await products.OrderByDescending(p => p.Id).ToListAsync());
 		}
