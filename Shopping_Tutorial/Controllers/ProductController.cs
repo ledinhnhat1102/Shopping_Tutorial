@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Shopping_Tutorial.Repository;
 
@@ -11,13 +12,21 @@ namespace Shopping_Tutorial.Controllers
 		{
 			_dataContext = dataContext;
 		}
-		public ActionResult Index()
+		public async Task<IActionResult> Index()
 		{
+
 			ViewData["searchQuery"] = "searchQuery";
-			return View();
-
-
+			return View(await _dataContext.Products.OrderByDescending(p => p.Id).Include(p => p.Category).Include(p => p.Brand).ToListAsync());
 		}
+
+		public IActionResult Create()
+		{
+			ViewBag.Categories = new SelectList(_dataContext.Categories, "Id", "Name");
+			ViewBag.Brands = new SelectList(_dataContext.Brands, "Id", "Name");
+			return View();
+		}
+		
+		
 		public async Task<IActionResult> Details(int Id)
 		{
 			if (Id == null) return RedirectToAction("Index");

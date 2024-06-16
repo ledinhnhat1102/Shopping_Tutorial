@@ -1,4 +1,5 @@
-﻿/*using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using Shopping_Tutorial.Models;
 using Shopping_Tutorial.Repository;
 using System.Security.Claims;
 
@@ -21,15 +22,15 @@ namespace Shopping_Tutorial.Controllers
             else
             {
                 var ordercode = Guid.NewGuid().ToString();
-                var orderItem = new OrderModel();
-                orderItem.Ordercode = ordercode;//fgfgfgfgfhfg
-                orderItem.Username = userEmail;
-                orderItem.Startus = 1;
-                orderItem.CreatedDate = DateTime.Now;//fgfgfdfdfdf
+               var orderItem = new OrderModel();
+                orderItem.OrderCode = ordercode;
+                orderItem.UserName = userEmail;
+                orderItem.Status = 1;
+                orderItem.CreatedDate = DateTime.Now;
                 _dataContext.Add(orderItem);
                 _dataContext.SaveChanges();
                 TempData["success"] = "Đơn Hàng Đã Được Tạo";
-                return RedirectToAction("index","cart");//sdsdsdsd
+                return RedirectToAction("index","cart");
 
             }
                 return View();
@@ -37,4 +38,3 @@ namespace Shopping_Tutorial.Controllers
             }
         }
     }
-*/
