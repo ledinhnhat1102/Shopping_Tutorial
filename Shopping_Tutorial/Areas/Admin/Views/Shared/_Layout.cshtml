@@ -65,20 +65,32 @@
 						</div>
 						<div class="mainmenu pull-left">
 							<ul class="nav navbar-nav collapse navbar-collapse">
-								<li><a asp-controller="Home" class="active">Home</a></li>
+								
 								
 								
 								<li><a asp-controller="Product">Products</a></li>
 								<li><a asp-controller="Category">Categories</a></li>
 								<li><a asp-controller="Brand">Brands</a></li>
+								<li><a asp-controller="Order" asp-action="Index">Orders</a></li>
 							</ul>
 						</div>
 					</div>
+					@{
+						var currentController = ViewContext.RouteData.Values["controller"].ToString();
+					}
 					<div class="col-sm-3">
-						<div class="search_box pull-right">
-							<input type="text" placeholder="Search" />
-						</div>
+					<div class="container">
+						@if (currentController == "Product")
+						{
+								<form asp-controller="Product" asp-action="Search" method="get">
+									<input type="text" name="searchQuery" placeholder="Enter the product name..." value="@ViewData["searchQuery"]" />
+									<button type="submit">Search</button>
+								</form>
+						}
 					</div>
+					</div>
+
+
 				</div>
 			</div>
 		</div><!--/header-bottom-->
@@ -88,7 +100,7 @@
 		<div class="container">
 			<div class="row">
 				@Html.Partial("_NotificationPartial")
-				@RenderBody();
+				@RenderBody()
 			</div>
 		</div>
 	</section>

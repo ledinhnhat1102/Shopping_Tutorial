@@ -1,4 +1,5 @@
 ﻿using HtmlAgilityPack;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -8,23 +9,23 @@ using Shopping_Tutorial.Repository;
 
 namespace Shopping_Tutorial.Areas.Admin.Controllers
 {
-	[Area("Admin")]
-	public class CategoryController: Controller
-	{
-		private readonly DataContext _dataContext;
-		public CategoryController(DataContext context)
-		{
-			_dataContext = context;
-		}
+    [Area("Admin")]
+	[Authorize]
+	public class CategoryController : Controller
+    {
+        private readonly DataContext _dataContext;
+        public CategoryController(DataContext context)
+        {
+            _dataContext = context;
+        }
 
-		public async Task<IActionResult> Index()
-		{
-			return View(await _dataContext.Categories.OrderByDescending(p => p.Id).ToListAsync());
-		}
+        public async Task<IActionResult> Index()
+        {
+            return View(await _dataContext.Categories.OrderByDescending(p => p.Id).ToListAsync());
+        }
 
         public IActionResult Create()
         {
-
             return View();
         }
 
@@ -34,7 +35,6 @@ namespace Shopping_Tutorial.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-                //them
                 category.Slug = category.Name.Replace(" ", "-");
                 var slug = await _dataContext.Categories.FirstOrDefaultAsync(p => p.Slug == category.Slug);
                 if (slug != null)
@@ -47,22 +47,18 @@ namespace Shopping_Tutorial.Areas.Admin.Controllers
                 TempData["success"] = "Thêm danh mục thành công ";
                 return RedirectToAction("Index");
             }
-            else
-            {
-                TempData["error"] = "Thêm danh mục thất bại";
-                List<string> errors = new List<string>();
-                foreach (var value in ModelState.Values)
-                {
-                    foreach (var error in value.Errors)
-                    {
-                        errors.Add(error.ErrorMessage);
-                    }
-                }
-                string errorMessage = string.Join("\n", errors);
-                return BadRequest(errorMessage);
-            }
 
-            return View(category);
+            TempData["error"] = "Thêm danh mục thất bại";
+            List<string> errors = new List<string>();
+            foreach (var value in ModelState.Values)
+            {
+                foreach (var error in value.Errors)
+                {
+                    errors.Add(error.ErrorMessage);
+                }
+            }
+            string errorMessage = string.Join("\n", errors);
+            return BadRequest(errorMessage);
         }
 
         public async Task<IActionResult> Edit(int Id)
@@ -77,35 +73,24 @@ namespace Shopping_Tutorial.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-                //them
                 category.Slug = category.Name.Replace(" ", "-");
-                var slug = await _dataContext.Categories.FirstOrDefaultAsync(p => p.Slug == category.Slug);
-                if (slug != null)
-                {
-                    ModelState.AddModelError("", "Danh mục đã có trong database");
-                    return View(category);
-                }
                 _dataContext.Update(category);
                 await _dataContext.SaveChangesAsync();
                 TempData["success"] = "Cập nhật danh mục thành công ";
                 return RedirectToAction("Index");
             }
-            else
-            {
-                TempData["error"] = "Cập nhật danh mục thất bại";
-                List<string> errors = new List<string>();
-                foreach (var value in ModelState.Values)
-                {
-                    foreach (var error in value.Errors)
-                    {
-                        errors.Add(error.ErrorMessage);
-                    }
-                }
-                string errorMessage = string.Join("\n", errors);
-                return BadRequest(errorMessage);
-            }
 
-            return View(category);
+            TempData["error"] = "Cập nhật danh mục thất bại";
+            List<string> errors = new List<string>();
+            foreach (var value in ModelState.Values)
+            {
+                foreach (var error in value.Errors)
+                {
+                    errors.Add(error.ErrorMessage);
+                }
+            }
+            string errorMessage = string.Join("\n", errors);
+            return BadRequest(errorMessage);
         }
 
         public async Task<IActionResult> Delete(int Id)

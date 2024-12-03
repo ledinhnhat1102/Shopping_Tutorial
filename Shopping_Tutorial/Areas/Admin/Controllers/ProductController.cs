@@ -4,10 +4,12 @@ using Microsoft.EntityFrameworkCore;
 using Shopping_Tutorial.Models;
 using Shopping_Tutorial.Repository;
 using Ganss.XSS;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Shopping_Tutorial.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly DataContext _dataContext;
@@ -192,6 +194,23 @@ namespace Shopping_Tutorial.Areas.Admin.Controllers
                 TempData["success"] = "Xóa sản phẩm thành công ";
                 return RedirectToAction("Index");
         }
+
+        public async Task<IActionResult> Search(string searchQuery)
+        {
+            var products = from p in _dataContext.Products.Include(p => p.Category).Include(p => p.Brand)
+                           select p;
+
+            if (!string.IsNullOrEmpty(searchQuery))
+            {
+                searchQuery = searchQuery.ToLower();
+                products = products.Where(p => EF.Functions.Like(p.Name.ToLower(), $"%{searchQuery}%"));
+                ViewData["searchQuery"] = searchQuery;
+            }
+
+            return View(await products.OrderByDescending(p => p.Id).ToListAsync());
+        }
+
+
 
 
 
